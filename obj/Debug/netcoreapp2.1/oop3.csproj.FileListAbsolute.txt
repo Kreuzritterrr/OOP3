@@ -1,0 +1,12 @@
+C:\Users\KR\Desktop\ООП\ООП3\bin\Debug\netcoreapp2.1\oop3.deps.json
+C:\Users\KR\Desktop\ООП\ООП3\bin\Debug\netcoreapp2.1\oop3.runtimeconfig.json
+C:\Users\KR\Desktop\ООП\ООП3\bin\Debug\netcoreapp2.1\oop3.runtimeconfig.dev.json
+C:\Users\KR\Desktop\ООП\ООП3\bin\Debug\netcoreapp2.1\oop3.dll
+C:\Users\KR\Desktop\ООП\ООП3\bin\Debug\netcoreapp2.1\oop3.pdb
+C:\Users\KR\Desktop\ООП\ООП3\obj\Debug\netcoreapp2.1\oop3.csprojAssemblyReference.cache
+C:\Users\KR\Desktop\ООП\ООП3\obj\Debug\netcoreapp2.1\oop3.AssemblyInfoInputs.cache
+C:\Users\KR\Desktop\ООП\ООП3\obj\Debug\netcoreapp2.1\oop3.AssemblyInfo.cs
+C:\Users\KR\Desktop\ООП\ООП3\obj\Debug\netcoreapp2.1\oop3.csproj.CoreCompileInputs.cache
+C:\Users\KR\Desktop\ООП\ООП3\obj\Debug\netcoreapp2.1\oop3.dll
+C:\Users\KR\Desktop\ООП\ООП3\obj\Debug\netcoreapp2.1\oop3.pdb
+C:\Users\KR\Desktop\ООП\ООП3\obj\Debug\netcoreapp2.1\oop3.genruntimeconfig.cache
